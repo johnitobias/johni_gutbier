@@ -1,0 +1,22 @@
+Clonar un repositorio existente
+$ git clone ssh://usuario@domain.com/repo.git
+Criar um novo repositório local
+$ git init
+Verificar status 
+$ git status
+Enviar tods os arquivos
+$ git add .
+Enviar somente um arquivo especifico
+$ git add nome_arquivo
+Sicronizar repositorio online com o local
+$ git pull
+Sicronizar arquivo local com o remoto
+$ git push
+Salvar alterações
+$ git commit -m "descrição"
+Visualizar as branch
+$ git branch
+Abrir VS Code
+$ code .
+Entrar na Branch
+$ git checkout nome_branch
